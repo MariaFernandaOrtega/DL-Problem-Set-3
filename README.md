@@ -1,6 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/aVmkumDX)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12857386&assignment_repo_type=AssignmentRepo)
-# Problem-Set-3
+NLP From Scratch: Translation with a Sequence to Sequence Network and Attention
+Maria Fernanda Ortega Valencia and Santiago Sordo Ruz
+In this project we will be teaching a neural network to translate from German to English.
 
-Third assigment of the Deep Learning course WS 2023/2024; tasks are indicated by the #TODO flag. In case of problems, open an issue on your repository and tag TA @chiara-fb.
-Remember to show Notebook outputs when uploading your code to avoid penalties.
+This is made possible by the simple but powerful idea of the sequence to sequence network, in which two recurrent neural networks work together to transform one sequence to another. An encoder network condenses an input sequence into a vector, and a decoder network unfolds that vector into a new sequence.
+
+To improve upon this model we'll use an attention mechanism, which lets the decoder learn to focus over a specific range of the input sequence.
