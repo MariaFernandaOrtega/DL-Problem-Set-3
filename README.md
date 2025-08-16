@@ -7,4 +7,11 @@ This is made possible by the simple but powerful idea of the sequence to sequenc
 
 To improve upon this model we'll use an attention mechanism, which lets the decoder learn to focus over a specific range of the input sequence.
 
-Contributors: Maria Fernanda Ortega Valencia and Santiago Sordo Ruz
+📓 Notebook: Problem_Set_3.ipynb – a step-by-step walkthrough of the full process.
+📂 Data: /Data – dataset required to run the model.
+
+Contributors:
+
+Maria Fernanda Ortega Valencia
+
+Santiago Sordo Ruz
