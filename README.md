@@ -1,6 +1,5 @@
 # NLP From Scratch: Translation with a Sequence to Sequence Network and Attention
 
-**Maria Fernanda Ortega Valencia and Santiago Sordo Ruz**
 
 In this project we will be teaching a neural network to translate from German to English.
 
@@ -8,4 +7,4 @@ This is made possible by the simple but powerful idea of the sequence to sequenc
 
 To improve upon this model we'll use an attention mechanism, which lets the decoder learn to focus over a specific range of the input sequence.
 
-
+Contributors: Maria Fernanda Ortega Valencia and Santiago Sordo Ruz
