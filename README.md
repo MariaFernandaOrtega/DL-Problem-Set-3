@@ -11,8 +11,4 @@ To improve upon this model we'll use an attention mechanism, which lets the deco
 
 📂 Data: /Data – dataset required to run the model.
 
-Contributors:
-
-Maria Fernanda Ortega Valencia
-
-Santiago Sordo Ruz
+Contributors: Maria Fernanda Ortega Valencia & Santiago Sordo Ruz
